@@ -1,0 +1,22 @@
+body {
+	padding: 70px;
+}
+
+#btn {
+	background-color: #BF1B85;
+	padding: 20px;
+	color: #ffffff;
+	border: 2px solid #AC187A;
+	border-radius: 5px;
+	font-family: Arial;
+	font-size: 16px;
+}
+
+h1 {
+	color: #333333;
+	font-family: Arial;
+}
+
+.hide-me {
+	display: none;
+}
